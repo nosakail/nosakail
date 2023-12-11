@@ -1,6 +1,14 @@
-### Portfolio
+#Portfolio
 
 Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-year university full-course diploma in Information Technology](https://www.iut.unilim.fr/les-formations/but/informatique/), major Computer Science (Application development: design, development, validation). Why did I choose this course? What interests me in development? Artificial intelligence. I think it's great that we can design a program that can analyze a situation based on a context and make decisions on its own, thanks to the data it has access to. When it comes to artificial intelligence, I like to work on projects that call on my creativity.
+
+## Skills
+
+### Hard Skills
+
+- Web development : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JS]([https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)) 
+- Software development : 
+- Data analysis : 
 
 <!--
 **nosakail/nosakail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
