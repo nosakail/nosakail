@@ -1,4 +1,7 @@
-### Hi there 👋
+### Portfolio 👋
+
+Bienvenue sur mon portfolio ! Je m'appelle Yassine et je suis actuellement étudiant en 2ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) Parcours Réalisation d'applications : conception, développement, validation. Pourquoi j’ai choisi cette formation ? Qu'Est-ce qui m’intéresse dans le développement ? L'intelligence artificielle. Je trouve génial le fait que l'on puisse concevoir un programme qui puisse analyser une situation en fonction d’un contexte et prendre des décisions par lui-même, grâce aux données auxquelles il a accès. Associé à l’intelligence artificiel j'aime réaliser des projets laissant recours à ma créativité.
+
 
 <!--
 **nosakail/nosakail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
