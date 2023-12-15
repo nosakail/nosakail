@@ -6,7 +6,7 @@ Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-yea
 
 ### Hard Skills
 
-- Web development : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JS]([https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)) 
+- Web development : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript) 
 - Software development : 
 - Data analysis : 
 
