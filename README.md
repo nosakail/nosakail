@@ -1,6 +1,6 @@
-#Portfolio
+# Portfolio
 
-Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-year university full-course diploma in Information Technology](https://www.iut.unilim.fr/les-formations/but/informatique/), major Computer Science (Application development: design, development, validation). Why did I choose this course? What interests me in development? Artificial intelligence. I think it's great that we can design a program that can analyze a situation based on a context and make decisions on its own, thanks to the data it has access to. When it comes to artificial intelligence, I like to work on projects that call on my creativity.
+Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-year university full-course diploma in Information Technology](https://www.iut.unilim.fr/les-formations/but/informatique/), major Computer Science (Application development: design, development, validation). Why did I choose this course? What interests me in development? Artificial intelligence. I think it's great that we can design a program that can analyze a situation based on a context and make decisions on its own, thanks to the data it has access to. When it comes to artificial intelligence, I like to work on projects that call on my creativity. We can see my portofolio website ![here](https://yassine-saddiki.netlify.app/)
 
 ## Skills
 
