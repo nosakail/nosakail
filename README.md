@@ -12,6 +12,24 @@ Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-yea
 - Data analysis : ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
+### Soft Skills
+
+-Project management : AGILE methodology, SCRUM sprints.
+-Communication 
+
+## Projets
+
+Some of my projects
+
+- [Le Verger](https://github.com/cOpeRency/planorama) - Application mobile (IOS/Android), permettant de visionner facilement les emplois du temps, ainsi que le journal étudiant.
+- [Cluster Swarm](https://github.com/cOpeRency/Cluster_Swarm) - Création d'un environnement de production : déploiement d'application, cluster Swarm, reverse-proxy, monitoring etc...
+- [Latice](https://github.com/cOpeRency/Latice_but1) - Application Java/JavaFx, jeu de plateau Latice sur PC
+- BUT_Explorer - EscapeGame 3D intéractif pour des Journées Portes Ouvertes, réalisé sur Unity, en C#
+- BUT_Explorer_VR - Initiation à la réalité virtuelle en apprenant les bonnes pratiques de programmation, pour des Journées Portes Ouvertes, réalisé sur Unity, en C#
+- Truckers - Service Android permettant l'écoute et la récupération de messages reçu sur des smartphones professionnels
+- Python_Mini_Games - Ensemble de mini-jeux en ligne de commande développés en python (puissance 4, morpion, devinettes, jeu des allumettes)
+- FairyBlossomWSL - Site web permettant la création de plantes, de catégories, et l'affiche d'un calendrier de plantation, développé en Symfony
+- Gardeners - Site web permettant la création et gestion de jardins/potagers, développé en Laravel
 <!--
 **nosakail/nosakail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
