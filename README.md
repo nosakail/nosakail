@@ -21,7 +21,7 @@ Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-yea
 
 Some of my projects
 
-- [Le Verger]([https://github.com/cOpeRency/planorama](https://github.com/nosakail/le-verger)) - Java/JavaFx [Le Verger](https://www.foxetcompagnie.com/fr/nos-coups-de-coeur-les-jeux-cooperatifs/1235-le-verger-4010168031705.html) board game.
+- [Le Verger](https://github.com/nosakail/le-verger) - Java/JavaFx [Le Verger](https://www.foxetcompagnie.com/fr/nos-coups-de-coeur-les-jeux-cooperatifs/1235-le-verger-4010168031705.html) board game.
 - [Calculate Statistique](https://github.com/cOpeRency/Cluster_Swarm) - Création d'un environnement de production : déploiement d'application, cluster Swarm, reverse-proxy, monitoring etc...
 - [Latice](https://github.com/cOpeRency/Latice_but1) - Application Java/JavaFx, jeu de plateau Latice sur PC
 - BUT_Explorer - EscapeGame 3D intéractif pour des Journées Portes Ouvertes, réalisé sur Unity, en C#
