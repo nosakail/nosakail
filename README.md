@@ -13,8 +13,8 @@ Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-yea
 
 ### Soft Skills
 
--Project management : AGILE methodology, SCRUM sprints. [/n]
--Communication 
+- Project management : AGILE methodology, SCRUM sprints. 
+- Communication 
 
 ## Projets
 
