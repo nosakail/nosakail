@@ -9,7 +9,7 @@ Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-yea
 - Web development : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 - Software development : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 - Data analysis : ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
+-Mobile development : ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)
 
 ### Soft Skills
 
@@ -19,7 +19,7 @@ Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-yea
 ## Projets
 
 Some of my projects
-
+- [Image synthesis application](https://drive.google.com/file/d/1L6jLaaZPAnLzPDbOj-AY3_JBP3ggLgJU/view)
 - [Le Verger](https://github.com/nosakail/le-verger) - Java/JavaFx [Le Verger](https://www.foxetcompagnie.com/fr/nos-coups-de-coeur-les-jeux-cooperatifs/1235-le-verger-4010168031705.html) board game.
 - [Calculate Statistique](https://github.com/nosakail/programme-calcul-statistique-) - Program, which, based on values (x, y), allows the generation of a scatter plot, calculates means, variances, covariances, standard deviations, the correlation coefficient, the equation of the regression line, and estimates a y-value based on x.
 - [Tic-Tac-Toe Ai and more...](https://github.com/cOpeRency/Latice_but1) - Application Java/JavaFx, jeu de plateau Latice sur PC
