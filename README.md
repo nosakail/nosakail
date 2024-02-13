@@ -19,7 +19,7 @@ Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-yea
 ## Projets
 
 Some of my projects
-- [Image synthesis application](https://drive.google.com/file/d/1L6jLaaZPAnLzPDbOj-AY3_JBP3ggLgJU/view)
+- [Image synthesis application](https://drive.google.com/file/d/1L6jLaaZPAnLzPDbOj-AY3_JBP3ggLgJU/view) - C++ raytracing
 - [Le Verger](https://drive.google.com/file/d/1P1LXziqDqo93nblHN-nTO3M1E4GwDf8y/view) - Java/JavaFx board game.
 - [Tic-Tac-Toe Ai and more...](https://drive.google.com/file/d/1Zv99xR4wgKrDSEPiggcv0-_SguXpyCs2/view) - Python, console interface
 
