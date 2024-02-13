@@ -8,27 +8,21 @@ Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-yea
 
 - Web development : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 - Software development : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-- Data analysis : ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
--Mobile development : ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)
+- Data analysis : ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- Mobile development : ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)
 
 ### Soft Skills
 
--Project management : AGILE methodology, SCRUM sprints.
+-Project management : AGILE methodology, SCRUM sprints. [/n]
 -Communication 
 
 ## Projets
 
 Some of my projects
 - [Image synthesis application](https://drive.google.com/file/d/1L6jLaaZPAnLzPDbOj-AY3_JBP3ggLgJU/view)
-- [Le Verger](https://github.com/nosakail/le-verger) - Java/JavaFx [Le Verger](https://www.foxetcompagnie.com/fr/nos-coups-de-coeur-les-jeux-cooperatifs/1235-le-verger-4010168031705.html) board game.
-- [Calculate Statistique](https://github.com/nosakail/programme-calcul-statistique-) - Program, which, based on values (x, y), allows the generation of a scatter plot, calculates means, variances, covariances, standard deviations, the correlation coefficient, the equation of the regression line, and estimates a y-value based on x.
-- [Tic-Tac-Toe Ai and more...](https://github.com/cOpeRency/Latice_but1) - Application Java/JavaFx, jeu de plateau Latice sur PC
-- BUT_Explorer - EscapeGame 3D intéractif pour des Journées Portes Ouvertes, réalisé sur Unity, en C#
-- BUT_Explorer_VR - Initiation à la réalité virtuelle en apprenant les bonnes pratiques de programmation, pour des Journées Portes Ouvertes, réalisé sur Unity, en C#
-- Truckers - Service Android permettant l'écoute et la récupération de messages reçu sur des smartphones professionnels
-- Python_Mini_Games - Ensemble de mini-jeux en ligne de commande développés en python (puissance 4, morpion, devinettes, jeu des allumettes)
-- FairyBlossomWSL - Site web permettant la création de plantes, de catégories, et l'affiche d'un calendrier de plantation, développé en Symfony
-- Gardeners - Site web permettant la création et gestion de jardins/potagers, développé en Laravel
+- [Le Verger](https://drive.google.com/file/d/1P1LXziqDqo93nblHN-nTO3M1E4GwDf8y/view) - Java/JavaFx board game.
+- [Tic-Tac-Toe Ai and more...](https://drive.google.com/file/d/1Zv99xR4wgKrDSEPiggcv0-_SguXpyCs2/view) - Python, console interface
+
 <!--
 **nosakail/nosakail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
