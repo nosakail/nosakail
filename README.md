@@ -10,16 +10,17 @@ Hi, welcome to my portfolio ! My name is Yassine and I'm currently in [Three-yea
 - Software development : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 - Data analysis : ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 - Mobile development : ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)
-
+- 
 ### Soft Skills
 
 - Project management : AGILE methodology, SCRUM sprints. 
 - Communication 
 
-## Projets
+## Projects
 
 Some of my projects
 - [Image synthesis application](https://drive.google.com/file/d/1L6jLaaZPAnLzPDbOj-AY3_JBP3ggLgJU/view) - C++ raytracing
+- [Portfolio Web Site](https://yassine-saddiki.netlify.app/) - HTML/CSS/JS
 - [Le Verger](https://drive.google.com/file/d/1P1LXziqDqo93nblHN-nTO3M1E4GwDf8y/view) - Java/JavaFx board game.
 - [Tic-Tac-Toe Ai and more...](https://drive.google.com/file/d/1Zv99xR4wgKrDSEPiggcv0-_SguXpyCs2/view) - Python, console interface
 
