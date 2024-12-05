@@ -4,13 +4,10 @@
 
 🎓 I'm a computer science student passionate about **artificial intelligence**, **cybersecurity**, and **software development**. I love exploring how technology can drive innovation and make a positive impact.
 
-🛡️ I'm developing my cybersecurity skills through hands-on learning on platforms like [TryHackMe](https://tryhackme.com).
-
-Follow my progress:  
-[![My TryHackMe Profile]](https://tryhackme.com/p/nosakail)
+🛡️ I'm developing my cybersecurity skills through hands-on learning on platforms like [TryHackMe](https://tryhackme.com/p/nosakail).  
+Follow my progress [here](https://tryhackme.com/p/nosakail).
 
 🚀 Currently, I'm looking for a **16-week internship** to gain hands-on experience and fulfill my diploma requirements. I'm eager to apply my knowledge and collaborate on meaningful projects.
-
 <br>
 
 
