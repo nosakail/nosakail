@@ -1,5 +1,15 @@
 # 💫 About Me:
-👋 Hello! I'm Yassine<br><br>🎓 I'm a computer science student passionate about artificial intelligence, cybersecurity, and software development. I love exploring how technology can drive innovation and make a positive impact.<br><br>🚀 Currently, I'm looking for a 16-week internship to gain hands-on experience and fulfill my diploma requirements. I'm eager to apply my knowledge and collaborate on meaningful projects.<br>
+
+👋 **Hello! I'm Yassine**
+
+🎓 I'm a computer science student passionate about **artificial intelligence**, **cybersecurity**, and **software development**. I love exploring how technology can drive innovation and make a positive impact.
+
+🛡️ I'm developing my cybersecurity skills through hands-on learning on platforms like [TryHackMe](https://tryhackme.com). Follow my progress:
+
+[![My TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/nosakail.png)](https://tryhackme.com/p/nosakail)
+
+🚀 Currently, I'm looking for a **16-week internship** to gain hands-on experience and fulfill my diploma requirements. I'm eager to apply my knowledge and collaborate on meaningful projects.
+<br>
 
 
 ## 🌐 Socials:
