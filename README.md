@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 **Hello! I'm Yassine**
+👋 **Hello! I'm Yassine Saddiki**
 
 🎓 I'm a computer science student passionate about **artificial intelligence**, **cybersecurity**, and **software development**. I love exploring how technology can drive innovation and make a positive impact.
 
