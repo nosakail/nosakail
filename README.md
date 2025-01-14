@@ -31,7 +31,6 @@ Follow my progress [here](https://tryhackme.com/p/nosakail).
 ## 🚀 My Last projects
 ### ***RAGAdmin***
 
-<br>
 RAGAdmin is a web application for communicating with a passive assistant. This tool, based on RAG (Retrieval-Augmented Generation) technology, intelligently combines
 information retrieval from a document database with the generation of contextual responses via a language model (LLM).<br>
 
