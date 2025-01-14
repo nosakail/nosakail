@@ -36,7 +36,7 @@ information retrieval from a document database with the generation of contextual
 ### *UI*
 <img  class="image" src="ui1.png" alt="ui1" width="100%"/>
 
-### *Fonctionnalitées principales* <br>
+### *Main features* <br>
 Conversation management: create, delete, move, view history, search and select conversations, delete messages from a conversation, rename conversations.
 Other functions: activate a dark theme, insert data in database (RAGAdmin) in PDF and XML formats, view documents in database and their characteristics, select a specific template (e.g. Llama 3.2, 3.1), and delete documents in database.<br>
 
