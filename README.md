@@ -34,7 +34,6 @@ RAGAdmin is a web application for communicating with a passive assistant. This t
 information retrieval from a document database with the generation of contextual responses via a language model (LLM).<br>
 
 ### *UI*
-<br>
 <img  class="image" src="ui1.png" alt="ui1" width="100%"/>
 
 ### *Fonctionnalitées principales* <br>
