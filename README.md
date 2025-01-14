@@ -33,15 +33,20 @@ Follow my progress [here](https://tryhackme.com/p/nosakail).
 RAGAdmin is a web application for communicating with a passive assistant. This tool, based on RAG (Retrieval-Augmented Generation) technology, intelligently combines
 information retrieval from a document database with the generation of contextual responses via a language model (LLM).<br>
 
-### *UI*
-<img  class="image" src="ui1.png" alt="ui1" width="100%"/>
-
 ### *Main features* <br>
 Conversation management: create, delete, move, view history, search and select conversations, delete messages from a conversation, rename conversations.
 Other functions: activate a dark theme, insert data in database (RAGAdmin) in PDF and XML formats, view documents in database and their characteristics, select a specific template (e.g. Llama 3.2, 3.1), and delete documents in database.<br>
 
+### *UI*
+<img  class="image" src="ui1.png" alt="ui1" width="100%"/>
+
 ### *Tech Stack* <br>
-<img src="https://skillicons.dev/icons?i=js,django,html,css,react,&perline=13" alt="tech stack" width="400px" />  
+<img src="https://skillicons.dev/icons?i=js,django,html,css,react,&perline=13" alt="tech stack" width="400px" /> <br>
+
+### *Demonstration* <br>
+Clic to watch video demonstration
+
+[![Watch video](ui1.png)]([https://youtu.be/woydl-YdEks?si=OlZZpsXG1-pk9CHV](https://youtu.be/9JYqhAGk8sg))
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nosakail&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
