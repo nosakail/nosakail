@@ -23,7 +23,7 @@ Follow my progress [here](https://tryhackme.com/p/nosakail).
 <h2 align="center" >🤝 Cᴏntact Mᴇ 🤝</h2>
 <div align="center">
     <a href="mailto:yassine.saddiki@outlook.fr" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=mail&logoColor=white" alt=yassine.saddiki@outlook.fr mail style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt=yassine.saddiki@outlook.fr mail style="margin-bottom: 5px;" />
 </div>
 
 <!--Footer--> 
