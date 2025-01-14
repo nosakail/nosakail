@@ -19,11 +19,11 @@ Follow my progress [here](https://tryhackme.com/p/nosakail).
 | **Category**              | **Skills**                                                                                                                                                                               |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **WEB development**     | <img src="https://skillicons.dev/icons?i=js,django,html,css,react,nodejs,postman,php&perline=13" alt="WEB development" width="400px" />                                                 |
-| **Mobile development**  | <img src="https://skillicons.dev/icons?i=dotnet,cs,kotlin&perline=13" alt="Mobile development" width="400px" />                                                                          |
+| **Mobile development**  | <img src="https://skillicons.dev/icons?i=dotnet,cs,kotlin&perline=13" alt="Mobile development" width="200px" />                                                                          |
 | **Software development** | <img src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="Software development" width="100px" />                                                             |
 | **DB**                   | <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=13" alt="DB" width="100px" />                                                                                     |
 | **Network / Virtualization / CI/CD** | <img src="https://skillicons.dev/icons?i=linux,debian,jenkins,gitlab,docker&perline=13" alt="Network / Virtualization / CI/CD" width="100px" />                              |
-| **IDE**                   | <img src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,webstorm,phpstorm&perline=13" alt="IDE" width="100px" />                                                        |
+| **IDE**                   | <img src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,webstorm,phpstorm&perline=13" alt="IDE" width="400px" />                                                        |
 | **Project Management**     | <img src="https://skillicons.dev/icons?i=figma,notion&perline=13" alt="Project Management" width="100px" />                                                                     |
 | **Others**                   | <img src="https://skillicons.dev/icons?i=bash&perline=13" alt="Others" width="100px" />                                                                                      |
                                                                                   |
