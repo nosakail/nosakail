@@ -22,7 +22,7 @@ Follow my progress [here](https://tryhackme.com/p/nosakail).
 | **Software development** | <img src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="Software development" width="185px" />                                                             |
 | **DB**                   | <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=13" alt="DB" width="100px" />                                                                                     |
 | **Network - Virtualization - CI/CD** | <img src="https://skillicons.dev/icons?i=linux,jenkins,gitlab,docker&perline=13" alt="Network / Virtualization / CI/CD" width="185px" />                              |
-| **IDE**                   | <img src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,webstorm,phpstorm&perline=13" alt="IDE" width="200px" />                                                        |
+| **IDE**                   | <img src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,webstorm,phpstorm&perline=13" alt="IDE" width="250px" />                                                        |
 | **Project Management**     | <img src="https://skillicons.dev/icons?i=figma,notion&perline=13" alt="Project Management" width="100px" />                                                                     |
 | **Others**                   | <img src="https://skillicons.dev/icons?i=bash,debian&perline=13" alt="Others" width="100px" />
 
