@@ -19,7 +19,7 @@ Follow my progress [here](https://tryhackme.com/p/nosakail).
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **WEB development**     | <img src="https://skillicons.dev/icons?i=js,django,html,css,react,nodejs,postman,php&perline=13" alt="WEB development" width="400px" />                                                 |
 | **Mobile development**  | <img src="https://skillicons.dev/icons?i=dotnet,cs,kotlin&perline=13" alt="Mobile development" width="150px" />                                                                          |
-| **Software development** | <img src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="Software development" width="100px" />                                                             |
+| **Software development** | <img src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="Software development" width="175px" />                                                             |
 | **DB**                   | <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=13" alt="DB" width="100px" />                                                                                     |
 | **Network - Virtualization - CI/CD** | <img src="https://skillicons.dev/icons?i=linux,jenkins,gitlab,docker&perline=13" alt="Network / Virtualization / CI/CD" width="100px" />                              |
 | **IDE**                   | <img src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,webstorm,phpstorm&perline=13" alt="IDE" width="400px" />                                                        |
