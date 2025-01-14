@@ -25,7 +25,25 @@ Follow my progress [here](https://tryhackme.com/p/nosakail).
 | **Network - Virtualization - CI/CD** | <img src="https://skillicons.dev/icons?i=linux,jenkins,gitlab,docker&perline=13" alt="Network / Virtualization / CI/CD" width="100px" />                              |
 | **IDE**                   | <img src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,webstorm,phpstorm&perline=13" alt="IDE" width="400px" />                                                        |
 | **Project Management**     | <img src="https://skillicons.dev/icons?i=figma,notion&perline=13" alt="Project Management" width="100px" />                                                                     |
-| **Others**                   | <img src="https://skillicons.dev/icons?i=bash,debian&perline=13" alt="Others" width="100px" />                                                                        
+| **Others**                   | <img src="https://skillicons.dev/icons?i=bash,debian&perline=13" alt="Others" width="100px" />
+# 🚀 My Last projects
+## ***RAGAdmin***
+
+<br>
+RAGAdmin is a web application for communicating with a passive assistant. This tool, based on RAG (Retrieval-Augmented Generation) technology, intelligently combines
+information retrieval from a document database with the generation of contextual responses via a language model (LLM).<br>
+
+### *UI*
+<br>
+<img  class="image" src="ui1.png" alt="ui1" width="100%"/>
+
+### *Fonctionnalitées principales* <br>
+Conversation management: create, delete, move, view history, search and select conversations, delete messages from a conversation, rename conversations.
+Other functions: activate a dark theme, insert data in database (RAGAdmin) in PDF and XML formats, view documents in database and their characteristics, select a specific template (e.g. Llama 3.2, 3.1), and delete documents in database.<br>
+
+### *Tech Stack* <br>
+<img src="https://skillicons.dev/icons?i=js,django,html,css,react,&perline=13" alt="tech stack" width="400px" />  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nosakail&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
