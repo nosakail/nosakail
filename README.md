@@ -20,10 +20,10 @@ Follow my progress [here](https://tryhackme.com/p/nosakail).
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nosakail&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--Contact Section--> 
-<h2 align="center" >🤝 Cᴏɴɴᴇᴄᴛ Mᴇ 🤝</h2>
+<h2 align="center" >🤝 Cᴏntact Mᴇ 🤝</h2>
 <div align="center">
-    <a href="mailto:bkyarokun@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=bkyarokun@gmail.com mail style="margin-bottom: 5px;" />
+    <a href="mailto:yassine.saddiki@outlook.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=outlook&logoColor=white" alt=yassine.saddiki@outlook.fr mail style="margin-bottom: 5px;" />
 </div>
 
 <!--Footer--> 
