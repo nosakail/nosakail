@@ -27,8 +27,9 @@ Follow my progress [here](https://tryhackme.com/p/nosakail).
 | **Others**                   | <img src="https://skillicons.dev/icons?i=bash,debian&perline=13" alt="Others" width="100px" />
 
 <br>
-# 🚀 My Last projects
-## ***RAGAdmin***
+
+## 🚀 My Last projects
+### ***RAGAdmin***
 
 <br>
 RAGAdmin is a web application for communicating with a passive assistant. This tool, based on RAG (Retrieval-Augmented Generation) technology, intelligently combines
