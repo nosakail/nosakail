@@ -24,6 +24,7 @@ Follow my progress [here](https://tryhackme.com/p/nosakail).
 | **IDE**                   | <img src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,webstorm,phpstorm&perline=13" alt="IDE" width="400px" />                                                        |
 | **Project Management**     | <img src="https://skillicons.dev/icons?i=figma,notion&perline=13" alt="Project Management" width="100px" />                                                                     |
 | **Others**                   | <img src="https://skillicons.dev/icons?i=bash,debian&perline=13" alt="Others" width="100px" />
+<br>
 # 🚀 My Last projects
 ## ***RAGAdmin***
 
