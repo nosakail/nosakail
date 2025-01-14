@@ -44,7 +44,7 @@ Other functions: activate a dark theme, insert data in database (RAGAdmin) in PD
 <img src="https://skillicons.dev/icons?i=js,django,html,css,react,&perline=13" alt="tech stack" width="400px" /> <br>
 
 ### *Demonstration* <br>
-Watch video demonstration at [![Watch video](https://img.youtube.com/vi/9JYqhAGk8sg/0.jpg)](https://youtu.be/9JYqhAGk8sg)
+Watch video demonstration at [YouTube](https://youtu.be/9JYqhAGk8sg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nosakail&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
