@@ -1,4 +1,20 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=WELCOME&width=800&height=150)](https://github.com/Akshay090/svg-banners)
+<a href="https://yassine-saddiki.netlify.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
+    <img alt="Yassine Saddiki | Computer Science Student · Software Development · Cybersecurity enjoyer" src="./header.svg" width="100%" />
+  </picture>
+</a>
+
+<header>
+  <div align="center">
+    <a href="https://yassine-saddiki.netlify.app/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=enji.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+    </a>
+  </div>
+</header>
+
 # 💫 About Me:
 
 👋 **Hello! I'm Yassine Saddiki**
