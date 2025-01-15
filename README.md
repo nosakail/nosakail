@@ -16,7 +16,7 @@ Follow my progress [here](https://tryhackme.com/p/nosakail).
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-saddiki-5556aa274/) 
 
-# 💻 Tech Stack:
+# 💻 Skills:
 | **Category**              | **Skills**                                                                                                                                                                               |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **WEB development**     | <img src="https://skillicons.dev/icons?i=js,django,html,css,react,nodejs,postman,php&perline=13" alt="WEB development" width="400px" />                                                 |
