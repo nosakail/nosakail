@@ -9,8 +9,6 @@
 🛡️ I'm developing my cybersecurity skills through hands-on learning on platforms like [TryHackMe](https://tryhackme.com/p/nosakail).  
 Follow my progress [here](https://tryhackme.com/p/nosakail).
 
-🚀 Currently, I'm looking for a **16-week internship** to gain hands-on experience and fulfill my diploma requirements. I'm eager to apply my knowledge and collaborate on meaningful projects.
-<br>
 
 
 ## 🌐 Socials:
